@@ -7,6 +7,5 @@ Put this somewhere in fish_prompt
 
 - put something like this in your config.fish:
 `source /path/to/time-right-prompt.fish`
-- cd around for a while to build up the db
 - PROFIT!!
 - test with `sleep 4`
